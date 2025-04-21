@@ -37,7 +37,35 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
+      <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/github-512.png" height="40" alt="html5 logo"  />
+  <img width="12" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Gulp.js_Logo.svg/1200px-Gulp.js_Logo.svg.png" height="40" alt="html5 logo"  />
+  <img width="20" />
+        <img src="https://static-00.iconduck.com/assets.00/npm-icon-2048x2048-8sw7kisf.png" height="40" alt="html5 logo"  />
+  <img width="20" />
+        <img src="https://images.icon-icons.com/2699/PNG/512/json_logo_icon_168490.png" height="40" alt="html5 logo"  />
+  <img width="12" />
+</div>
+ <br/>
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/800px-Adobe_Photoshop_CC_icon.svg.png" height="40" alt="html5 logo"  />
+  <img width="12" />
+    <img src="https://blog.greggant.com/images/posts/2019-04-25-figma/Figma.png" height="40" alt="html5 logo"  />
+  <img width="12" />
 
 </div>
 
+
 ###
+<h3 align="left">Contact Me :</h3>
+
+<a href="mailto:zyzz123yy@gmail.com">
+ <img style="padding-right:20px"; align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/raw/master/assets/icons/gmail.png" />
+</a> 
+ 
+<a href="https://www.linkedin.com/in/eduard-zavoritnyi-9a7534361/">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/raw/master/assets/icons/linkedin.png" />
+</br>
+</br>
+</br>
+</a>
