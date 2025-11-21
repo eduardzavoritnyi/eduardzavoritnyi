@@ -41,7 +41,6 @@
   <img width="12" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Gulp.js_Logo.svg/1200px-Gulp.js_Logo.svg.png" height="40" alt="html5 logo"  />
   <img width="20" />
-        <img src="https://static-00.iconduck.com/assets.00/npm-icon-2048x2048-8sw7kisf.png" height="40" alt="html5 logo"  />
   <img width="20" />
         <img src="https://images.icon-icons.com/2699/PNG/512/json_logo_icon_168490.png" height="40" alt="html5 logo"  />
   <img width="12" />
