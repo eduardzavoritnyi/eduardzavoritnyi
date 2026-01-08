@@ -47,7 +47,7 @@
 </div>
  <br/>
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/800px-Adobe_Photoshop_CC_icon.svg.png" height="40" alt="html5 logo"  />
+  <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/800px-Adobe_Photoshop_CC_icon.svg.png" height="40" alt="html5 logo"  /> -->
   <img width="12" />
     <img src="https://blog.greggant.com/images/posts/2019-04-25-figma/Figma.png" height="40" alt="html5 logo"  />
   <img width="12" />
