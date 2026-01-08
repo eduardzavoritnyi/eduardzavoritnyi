@@ -43,11 +43,9 @@
   <img width="20" />
         <img src="https://images.icon-icons.com/2699/PNG/512/json_logo_icon_168490.png" height="40" alt="html5 logo"  />
   <img width="12" />
-</div>
-<div align="left">
-  <img width="12" />
     <img src="https://blog.greggant.com/images/posts/2019-04-25-figma/Figma.png" height="40" alt="html5 logo"  />
-  <img width="12" />
+</div>
+
 
 </div>
 
