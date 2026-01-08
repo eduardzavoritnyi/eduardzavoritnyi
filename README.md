@@ -46,6 +46,8 @@
     <img src="https://blog.greggant.com/images/posts/2019-04-25-figma/Figma.png" height="40" alt="html5 logo"  />
     <img width="12" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" height="40" alt="html5 logo"  />
+     <img width="12" />
+    <img src="https://www.vhv.rs/dpng/d/256-2563210_sql-programming-language-logo-hd-png-download.png" height="40" alt="html5 logo"  />
 </div>
 
 
