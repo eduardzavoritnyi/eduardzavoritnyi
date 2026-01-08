@@ -45,7 +45,7 @@
   <img width="12" />
     <img src="https://blog.greggant.com/images/posts/2019-04-25-figma/Figma.png" height="40" alt="html5 logo"  />
     <img width="12" />
-    <img src="https://commons.wikimedia.org/wiki/File:PHP-logo.svg" height="40" alt="html5 logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" height="40" alt="html5 logo"  />
 </div>
 
 
