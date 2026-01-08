@@ -47,7 +47,7 @@
     <img width="12" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" height="40" alt="html5 logo"  />
      <img width="12" />
-    <img src="https://www.citypng.com/public/uploads/preview/hd-mysql-logo-transparent-background-701751694771788209ydqoapx.png" height="40" alt="html5 logo"  />
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-mysql-logo-icon-svg-download-png-3030165.png" height="40" alt="html5 logo"  />
 </div>
 
 
