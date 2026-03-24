@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">I’m a front-end developer with over 3 years of experience building responsive landing pages and marketing email templates with high attention to detail and animation-rich interactions. I specialize in creating smooth, clean, and lightweight one-pagers, as well as pixel-perfect HTML emails for campaigns.</p>
+<p align="left">=)</p>
 
 
 ###
